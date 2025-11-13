@@ -1,0 +1,9 @@
+{
+  "hashtags": [
+    "amazing",
+    "funny",
+    "travel"
+  ],
+  "max_items": 20,
+  "notes": "This is a sample inputs file for batch-style processing. The current runner uses a single hashtag per run, so you can invoke it multiple times, e.g.:\n\npython src/runner.py --hashtag amazing --max-items 20\npython src/runner.py --hashtag funny --max-items 20\npython src/runner.py --hashtag travel --max-items 20"
+}
