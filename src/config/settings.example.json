@@ -1,0 +1,12 @@
+{
+  "hashtag": "amazing",
+  "max_items": 30,
+  "output": {
+    "format": "json",
+    "path": "data/sample_output.json"
+  },
+  "network": {
+    "timeout": 15,
+    "user_agent": "Mozilla/5.0 (compatible; BitbashScraper/1.0; +https://bitbash.dev)"
+  }
+}
